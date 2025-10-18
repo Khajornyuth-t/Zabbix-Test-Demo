@@ -1,0 +1,8 @@
+data/
+backups/
+logs/
+.env
+*.log
+*.pid
+*.swp
+.DS_Store
